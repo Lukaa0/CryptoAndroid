@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/primary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+
+  </style>
+  <style name="cardViewStyles" parent="Theme.AppCompat.Light">
+    <item name="cardCornerRadius"> 2dp </item>
+    <item name="contentPaddingTop"> 20dp </item>
+    <item name="contentPaddingBottom">20dp</item>
+    <item name="cardBackgroundColor">#4b0082</item>
+    <item name="contentPaddingRight">15dp</item>
+    <item name="contentPaddingRight">15dp</item>
+
+
+
+
+  </style>
+
+  <color name ="primary">#006064</color>
+  <color name ="colorPrimaryDark">#00363a</color>
+  <color name ="colorAccent">#428e92</color>
+</resources>
