@@ -1,0 +1,1 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><md50b690794eb4172ddfad3ff1b188de577.SfChart android:layout_height="match_parent" android:layout_width="match_parent" android:id="@+id/wallet_chart" /></LinearLayout>

@@ -1,0 +1,1 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><md5439bf82a87c6f0fba97a3d8a4fa67c7f.JazzyViewPager android:id="@+id/viewPager" android:layout_height="match_parent" android:layout_width="match_parent" /></LinearLayout>
